@@ -1,7 +1,7 @@
 <?php
 /**
  * From: https://stackoverflow.com/questions/18144782/performance-of-foreach-array-map-with-lambda-and-array-map-with-static-function#26527704
- * Author: FGM
+ * Original Author: FGM
  */
 
 function lap($func) {
